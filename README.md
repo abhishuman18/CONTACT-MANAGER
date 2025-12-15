@@ -148,7 +148,7 @@ License
 
 This project is released under the MIT License — feel free to use and modify it.
 
-Developer: Abhishuman Roy (abhishuman18)
+Developer: Abhishuman Roy (abhishuman18) & Arushi Sengupta (arushi23git)
 
 Contributing
 
